@@ -1,7 +1,7 @@
 # ID-FUZZ-GEN
 ### Essential tool to generate numerical parameters for IDOR fuzzing.
 
- This tool helps you to generate numerical parameters in ascending order. 
+ This tool helps you to generate numerical parameters in ascending order. Which potentially helps for IDOR fuzzing.
 
 ## **Requirements:**
 python3 
