@@ -1,2 +1,16 @@
-# id-fuzz-gen
-Essential tool to generate numerical parameters for IDOR fuzzing.
+# ID-FUZZ-GEN
+### Essential tool to generate numerical parameters for IDOR fuzzing.
+
+ This tool helps you to generate numerical parameters in ascending order. 
+
+## **Requirements:**
+python3 
+
+### **INSTALL :** 
+`git clone https://github.com/vulnbreave/id-fuzz-gen/`
+
+### **Usage :** 
+`python3 id-fuzz-gen.py`
+
+## **Prime Example:**
+![Screenshot from 2024-11-28 01-34-07](https://github.com/user-attachments/assets/f816bfb2-8b38-42b8-bb14-9fbacc1f6204)
