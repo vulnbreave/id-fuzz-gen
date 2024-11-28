@@ -4,7 +4,9 @@
  This tool helps you to generate numerical parameters in ascending order. Which potentially helps for IDOR fuzzing.
 
 ## **Requirements:**
-python3 
+python3 `sudo apt install python3-pip`
+
+pyfiglet `sudo apt install python3-pyfiglet`
 
 ### **INSTALL :** 
 `git clone https://github.com/vulnbreave/id-fuzz-gen/`
